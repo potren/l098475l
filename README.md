@@ -1,4 +1,4 @@
-![head.png](https://cdn.discordapp.com/attachments/836966934300852234/838404114865717278/unknown.png)
+![head.png](https://cdn.discordapp.com/attachments/836966934300852234/838405279116820550/ghhsqkqnpqy.gif)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=l098475l&show_icons=true&theme=radical"/>
 
 
@@ -12,11 +12,8 @@
 <p align="center">
 ─────────────────────────────────────
 </p>
----
 
 🔕》From [@l098475l](https://github.com/l098475l)
-
----
 
 <p align="center"> 
   <br>Nombre de vues: <br>
