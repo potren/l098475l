@@ -1,4 +1,4 @@
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ediD3v&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=l098475l&show_icons=true&theme=radical"/>
 
 ---
 ## 🔕》Hi 👋, French Developper
@@ -9,12 +9,12 @@
 
 ---
 
-🔕》From [@ediD3v](https://github.com/ediD3v)
+🔕》From [@l098475l](https://github.com/l098475l)
 
 ---
 
 <p align="center"> 
   <br>Nombre de vues: <br>
-  <img src="https://profile-counter.glitch.me/ediD3v/count.svg" />
+  <img src="https://profile-counter.glitch.me/l098475l/count.svg" />
 </p>
 
