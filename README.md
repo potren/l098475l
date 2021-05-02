@@ -1,4 +1,4 @@
-![head.png](https://cdn.discordapp.com/attachments/836966934300852234/838403792021356564/2753c49180635a233f909b1d88e047f3.gif)
+![head.png](https://cdn.discordapp.com/attachments/836966934300852234/838404114865717278/unknown.png)
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=l098475l&show_icons=true&theme=radical"/>
 
 
